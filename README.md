@@ -1,4 +1,4 @@
-## Hello 👋 there I'm @ktruong1018
+## Hello 👋 there I'm Kevin
 
 * 🌐 I'm currently learning web development
 * 🎮 My hobbies include model building and gaming
