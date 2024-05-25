@@ -1,6 +1,6 @@
 ## Hello 👋 there I'm Kevin
 
-* 🌐 I'm currently learning web development
+* 🌐 I'm striving web developer
 * 🎮 My hobbies include model building and gaming
 * ⏫ Looking forward to leveling up and take on new challanges
 * 👍 Thanks for stopping by!
